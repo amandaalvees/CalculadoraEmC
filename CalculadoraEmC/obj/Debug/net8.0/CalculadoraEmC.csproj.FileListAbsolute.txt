@@ -1,0 +1,14 @@
+C:\Projetos\Calculadora\CalculadoraEmC\bin\Debug\net8.0\CalculadoraEmC.exe
+C:\Projetos\Calculadora\CalculadoraEmC\bin\Debug\net8.0\CalculadoraEmC.deps.json
+C:\Projetos\Calculadora\CalculadoraEmC\bin\Debug\net8.0\CalculadoraEmC.runtimeconfig.json
+C:\Projetos\Calculadora\CalculadoraEmC\bin\Debug\net8.0\CalculadoraEmC.dll
+C:\Projetos\Calculadora\CalculadoraEmC\bin\Debug\net8.0\CalculadoraEmC.pdb
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.AssemblyInfoInputs.cache
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.AssemblyInfo.cs
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.csproj.CoreCompileInputs.cache
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.dll
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\refint\CalculadoraEmC.dll
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.pdb
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\CalculadoraEmC.genruntimeconfig.cache
+C:\Projetos\Calculadora\CalculadoraEmC\obj\Debug\net8.0\ref\CalculadoraEmC.dll
